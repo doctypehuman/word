@@ -2,7 +2,7 @@
 
 ---
 
-![Image of Winding Road IMG Courtesy Unsplash. PhotographerJacob Kiesow](word/img/word-0.jpg) 
+![Image of Winding Road IMG Courtesy Unsplash. PhotographerJacob Kiesow](/img/word-0.jpg) 
 
 
 Like many people I too was part of the crowd that was enamoured by the internet and computers. I ended by doing my graduation in Computer Applications. This was a hybrid degree with a mix of Commerce and Computers with _C_ being the main language that was taught in the final year. Along with _C_ I also learnt _HTML_ at the time but did not think much of it. I ended up pursuing a career first in Human Resources and then Marketing. Now, as things stand before me I have decided to jump back into the world of Computers to rebuild my career and here are 
