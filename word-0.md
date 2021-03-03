@@ -44,7 +44,7 @@ The number 1 reason is the people. Chances of you facing racisim or being discri
 
 
 
-These were some of the reasons why I chose I.T . . . again ! I hope they were helpful to you and that you consider them when the time comes for you to decide. 
+These were some of the reasons why I chose I.T .  . again ! I hope they were helpful to you and that you consider them when the time comes for you to decide. 
 
 
 
