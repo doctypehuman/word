@@ -1,7 +1,6 @@
 #  Tips To Clear Your Redhat Administration Exam
 
 
-![Image of man Walking Out Of Tunnel. Image courtesy Unsplash](/img/word-2.jpg) 
 
 
 Redhat Certified System Administration is an entry level exam that Redhat offers to validate your Linux skills. Though it is an entry level exam it is not easy. It is a practical exam and not theoretical. You actually have to execute the tasks. Duration of the exam is three hours long and you are allowed one break. I have recently cleared the exam and I would like to share some tips that helped me in clearing it. 
