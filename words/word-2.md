@@ -25,7 +25,7 @@ Things can go wrong in the exam. A service might not start, a file system might 
 
 ## Read All The Questions
 
-Before you begin please read all the questions. Read them slowly and understand what is being asked. Chances are high that some questions might be linked. Identify them so that you do not end up undoing a task and then redoing it again with an added parameter. Please do not skim through the questions. Please read each word and understand them. Also identify the questions that you think are easy and would not require much time. Get them out of the way either in the beginning or save them for later if you want to concentrate on the big guns in the beginning. The choice is yours but you should have at least group the questions in your head so that you have an idea about which ones will be more time consuming.
+Before you begin please read all the questions. Read them slowly and understand what is being asked. Chances are high that some questions might be linked. Identify them so that you do not end up undoing a task and then redoing it again with an added parameter. Please do not skim through the questions. Please read each word and understand them. Also identify the questions that you think are easy and would not require much time. Get them out of the way either in the beginning or save them for later if you want to concentrate on the big guns in the beginning. The choice is yours but you should have at least grouped the questions in your head so that you have an idea about which ones will be more time consuming.
 
 
 ## Take A Break
