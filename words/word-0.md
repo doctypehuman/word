@@ -2,9 +2,7 @@
 
 ---
 
-Even though I did my graduation in Computers where I learned **C** and **HTML** I did not work in the IT industry. Now as things stand before me I have decided to join the industry.
-
-Here are 5 reasons why I chose IT.
+I did my graduation in Computers where I learned **C** and **HTML** but I did not pick up IT in my professinal career for some time.I have now decided to join the industry and here are 5 reasons why I chose it.
 
 
 
